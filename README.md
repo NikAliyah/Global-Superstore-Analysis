@@ -48,7 +48,6 @@ Data cleaning, reduction, transformation and statistical analysis of a global re
 | `data/` | Original and cleaned Excel files |
 | `spss/` | SPSS data file (.sav) and output |
 | `report/` | Full project report (PDF) |
-| `images/` | Chart and output screenshots |
 
 ## Tools
 Microsoft Excel (pivot tables, VLOOKUP, filtering), IBM SPSS Statistics
