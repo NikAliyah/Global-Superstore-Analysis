@@ -53,7 +53,7 @@ Data cleaning, reduction, transformation, statistical analysis of a global retai
 |---|---|
 | `data/` | Original and cleaned Excel files |
 | `spss/` | SPSS data file (.sav) and output |
-| `report/` | Full project report (PDF) |
+| `Report/` | Full project report (PDF) |
 | `powerbi/` | Power BI data file (.pbix) and dashboard |
 
 ## Tools
